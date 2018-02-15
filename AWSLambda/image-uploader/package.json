@@ -1,0 +1,15 @@
+{
+  "name": "image-uploader",
+  "version": "1.0.0",
+  "description": "API To trigger uploaded image",
+  "main": "handler.js",
+  "dependencies": {
+    "serverless-external-s3-event": "^1.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
